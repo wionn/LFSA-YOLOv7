@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>100003545.bmp</filename>
+	<path>C:\Users\32085\Desktop\DATA\image\100003545.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aircraft carrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>26</ymin>
+			<xmax>358</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>warcraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>159</ymin>
+			<xmax>444</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>

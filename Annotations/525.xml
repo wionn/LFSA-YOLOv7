@@ -1,0 +1,62 @@
+<annotation>
+	<folder>image</folder>
+	<filename>100000525.bmp</filename>
+	<path>C:\Users\32085\Desktop\DATA\image\100000525.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>merchant ship_docking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>63</ymin>
+			<xmax>244</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>merchant ship_docking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>71</ymin>
+			<xmax>282</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>merchant ship_docking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>62</ymin>
+			<xmax>348</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>merchant ship_docking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>77</ymin>
+			<xmax>383</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>100000255.bmp</filename>
+	<path>C:\Users\32085\Desktop\DATA\image\100000255.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>warcraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>48</ymin>
+			<xmax>443</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>merchant ship_docking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>65</ymin>
+			<xmax>331</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>
