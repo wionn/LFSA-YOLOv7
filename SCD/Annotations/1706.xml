@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>100001706.bmp</filename>
+	<path>C:\Users\32085\Desktop\DATA\image\100001706.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>warcraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>50</ymin>
+			<xmax>423</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

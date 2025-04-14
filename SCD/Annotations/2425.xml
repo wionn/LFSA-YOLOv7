@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>100002425.bmp</filename>
+	<path>C:\Users\32085\Desktop\DATA\image\100002425.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>merchant ship_sailing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>98</ymin>
+			<xmax>349</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

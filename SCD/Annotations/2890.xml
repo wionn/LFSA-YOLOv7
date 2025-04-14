@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>100002890.bmp</filename>
+	<path>C:\Users\32085\Desktop\DATA\image\100002890.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>704</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aircraft carrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>43</ymin>
+			<xmax>365</xmax>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aircraft carrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>12</ymin>
+			<xmax>678</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>

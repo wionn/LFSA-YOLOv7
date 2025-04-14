@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>100002931.bmp</filename>
+	<path>C:\Users\32085\Desktop\DATA\image\100002931.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>submarine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>100</ymin>
+			<xmax>159</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>
