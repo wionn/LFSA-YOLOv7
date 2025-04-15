@@ -3,7 +3,7 @@
 # · SCD contains 3,700 ship images with a spatial resolution ranging from 0.35 to 2.2 meters.
 # · SCD includes 6,263 ship instances.
 # · SCD comprises 5 categories of ships: Aircraft Carrier, Warship, Submarine, Merchant Ship Sailing, and Merchant Ship Docking.
-# · Annotations are in the Horizontal Bounding Box(HBB) format.
+# · Annotations are provided in Horizontal Bounding Box(HBB) format.
 # · Annotation files are in .xml format.
 # · Image files are in .jpg format.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
