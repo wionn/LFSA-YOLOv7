@@ -1,4 +1,4 @@
-# Ⅰ _PE&RS-SCD-Dataset_: Ship Classification Detection(SCD) 
+# Ⅰ _PE&RS-SCD-Dataset: Ship Classification Detection(SCD)_
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # · SCD contains 3,700 ship images with a spatial resolution ranging from 0.35 to 2.2 meters.
 # · SCD includes 6,263 ship instances.
@@ -8,7 +8,7 @@
 # · Image files are in .jpg format.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Ⅱ _LFSA-YOLOv7_: Suitable for ship target detection in complex backgrounds.
+# Ⅱ _LFSA-YOLOv7: Suitable for ship target detection in complex backgrounds_
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # · A novel network architecture (LDConv + SPPFCSPC-G + SimAM) to enhance the model’s ship detection capabilities.
 # · A novel Alpha-CoIoU loss function to improve the model’s ship localization accuracy. 
